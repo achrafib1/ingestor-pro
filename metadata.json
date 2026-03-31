@@ -1,0 +1,5 @@
+{
+  "name": "Ingestor Pro",
+  "description": "High-performance LLM data ingestion tool for codebases, folders, and web content.",
+  "requestFramePermissions": []
+}
